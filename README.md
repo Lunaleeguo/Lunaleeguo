@@ -22,17 +22,6 @@
 ![](https://raw.githubusercontent.com/Lunaleeguo/github-stats-transparent/output/generated/languages.svg)
 
 
-<details open> 
- <summary> 😇 <b>Medium Published articles</b>: </summary>
-<br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0" alt="Recent Article 0"></a>
-  <br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1" alt="Recent Article 1"></a>
-  <br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2" alt="Recent Article 2"></a>
-  <br>
-
-</details>
 
 ### 🎧 Spotify Playing
 
@@ -51,114 +40,6 @@ Markdown   11 mins         ▒░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-### :sparkles: My Followers
-
-<!--START_SECTION:top-followers-->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Magicianred">
-        <img src="https://avatars2.githubusercontent.com/u/4624113" width="100px;" alt="Magicianred"/>
-      </a>
-      <br />
-      <a href="https://github.com/Magicianred">Simone Paolucci</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/snowdream">
-        <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
-      </a>
-      <br />
-      <a href="https://github.com/snowdream">snowdream</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/bitmote">
-        <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
-      </a>
-      <br />
-      <a href="https://github.com/bitmote">ZhengXiaolei</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/donmartz">
-        <img src="https://avatars2.githubusercontent.com/u/78443365" width="100px;" alt="donmartz"/>
-      </a>
-      <br />
-      <a href="https://github.com/donmartz">donmartz</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/cnsuhao">
-        <img src="https://avatars2.githubusercontent.com/u/23429527" width="100px;" alt="cnsuhao"/>
-      </a>
-      <br />
-      <a href="https://github.com/cnsuhao">cnsuhao</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/swhgoon">
-        <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
-      </a>
-      <br />
-      <a href="https://github.com/swhgoon">SwhGo_oN</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Neustradamus">
-        <img src="https://avatars2.githubusercontent.com/u/104737" width="100px;" alt="Neustradamus"/>
-      </a>
-      <br />
-      <a href="https://github.com/Neustradamus">Neustradamus</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/MadhavDev-prog">
-        <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
-      </a>
-      <br />
-      <a href="https://github.com/MadhavDev-prog">suffixdev</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zhuwenxing">
-        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
-      </a>
-      <br />
-      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ziaochina">
-        <img src="https://avatars2.githubusercontent.com/u/4494312" width="100px;" alt="ziaochina"/>
-      </a>
-      <br />
-      <a href="https://github.com/ziaochina">liujian zhang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/imknown">
-        <img src="https://avatars2.githubusercontent.com/u/5681447" width="100px;" alt="imknown"/>
-      </a>
-      <br />
-      <a href="https://github.com/imknown">imknown J. Kimu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Tim2906">
-        <img src="https://avatars2.githubusercontent.com/u/69757707" width="100px;" alt="Tim2906"/>
-      </a>
-      <br />
-      <a href="https://github.com/Tim2906">Tim</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gee1k">
-        <img src="https://avatars2.githubusercontent.com/u/12059800" width="100px;" alt="gee1k"/>
-      </a>
-      <br />
-      <a href="https://github.com/gee1k">Svend</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MagicMashRoom">
-        <img src="https://avatars2.githubusercontent.com/u/19260780" width="100px;" alt="MagicMashRoom"/>
-      </a>
-      <br />
-      <a href="https://github.com/MagicMashRoom">MagicMashRoom</a>
-    </td>
-  </tr>
-</table>
-<!--END_SECTION:top-followers-->
 
 名字：东骧神骏
 
@@ -177,23 +58,11 @@ Don't be a programmer, Be a problem solver.
     - :bird:[twitter@Lunaleeguo](https://twitter.com/Lunaleeguo/)
 
 
-- :computer: PC/Mac:
-
-    - MacBookPro2015
-    - i7-6700k 32G 256SSD+4T RX590 MacOS Big Sur 11.1
-    - i5-4590  16G 1TSSD RX570 MacOS Catalina 10.15.7
 
 
-| :pencil2: | :video_game: | :book: |:clapper:  |
-| --- | --- | --- | --- |
-| [Blogs](https://Lunaleeguo.github.io/) |[Games](https://Lunaleeguo.github.io/games/)  | [Books](https://Lunaleeguo.github.io/books/) | [Movies](https://Lunaleeguo.github.io/movies/) |
 
 
-### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#224](https://github.com/Lunaleeguo/500Days-Of-Github/issues/224) in [Lunaleeguo/500Days-Of-Github](https://github.com/Lunaleeguo/500Days-Of-Github)
-2. ❗️ Opened issue [#247](https://github.com/Lunaleeguo/500Days-Of-Github/issues/247) in [Lunaleeguo/500Days-Of-Github](https://github.com/Lunaleeguo/500Days-Of-Github)
-<!--END_SECTION:activity-->
+
 
 
