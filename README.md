@@ -18,8 +18,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/Lunaleeguo/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Lunaleeguo/github-stats-transparent/output/generated/languages.svg)
 
 
 <details open> 
@@ -166,11 +166,7 @@ Github：Lunaleeguo
 
 微博、知乎、B站：Lunaleeguo
 
-斗鱼房间:201001
-
 Don't be a programmer, Be a problem solver.
-
-公众号：Fullstacker
 
 - 📫 How to reach me:
     - :octocat: [Github@Lunaleeguo](https://github.com/Lunaleeguo)
